@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Backend Developer with a strong foundation in software engineering and a passion for building scalable digital solutions. Proficient in Java, SQL,frontend and backend frameworks, with hands-on experience in database management, API integration. Skilled at<br>designing robust server-side logic and collaborating in agile environments to deliver high-performance applications.
+Java Backend Developer with a strong foundation in software engineering and a passion for building scalable digital solutions. Proficient in Java, SQL,frontend and backend frameworks, with hands-on experience in database management, API integration. Skilled at designing robust server-side logic and collaborating in agile environments to deliver high-performance applications.
 
 
 ## 🌐 Socials:
